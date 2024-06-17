@@ -2,4 +2,9 @@ abc
 aa
 kk
 kk
+<<<<<<< Updated upstream
 branch2
+=======
+branch2
+kk
+>>>>>>> Stashed changes
